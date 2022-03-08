@@ -1,4 +1,4 @@
-export default {
+const dataobject2={
     products: [{
         name: 'Shirt',
         imageUrl: '/images/d1.jpg',
@@ -15,4 +15,6 @@ export default {
         rating: 4.5,
         numberOfReviews: 10,
     }]
-}
+};
+
+export default dataobject2
