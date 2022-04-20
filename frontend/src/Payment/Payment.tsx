@@ -34,7 +34,7 @@ function PaymentScreen() {
                                     id="paymentMedthod"
                                     value="Bitcoin"
                                 ></input>
-                                <label htmlFor="paymentMethod">Paypal</label>
+                                <label htmlFor="paymentMethod">Bitcoin</label>
                             </div>
                         </li>
                     
